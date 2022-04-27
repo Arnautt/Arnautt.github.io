@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Arnaud Trog"
 title_separator          : "-"
 name                     : &name "Arnaud Trog"
 description              : &description "personal description"
