@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Arnaud Trog"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Arnaud Trog"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Arnaud Trog"
-  avatar           : "1649513160173.png"
+  avatar           : "atrog_profile.png"
   bio              : "Data Scientist at ICube"
   location         : "Strasbourg"
   employer         : "ICube"
