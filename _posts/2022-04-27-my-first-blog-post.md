@@ -8,4 +8,11 @@ tags:
   - Time Series
 ---
 
-Test blog post 
+Test blog post with Python code : 
+
+
+```python
+import sklearn
+import os
+print(os.getcwd())
+```
